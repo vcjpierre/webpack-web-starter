@@ -3,8 +3,8 @@ import styles from './maps/styles';
 function initMap(){
 
     const coords = {                
-        lat: -17.783200,
-        lng: -63.182072         
+        lat: -17.783297,
+        lng: -63.182142
     }
 
     let mapa = new google.maps.Map(document.getElementById('mapa'), {
